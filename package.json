@@ -1,0 +1,19 @@
+{
+  "name": "23-03-24-server-prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nowkwon97/23-03-24-server-prac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nowkwon97/23-03-24-server-prac/issues"
+  },
+  "homepage": "https://github.com/nowkwon97/23-03-24-server-prac#readme"
+}
